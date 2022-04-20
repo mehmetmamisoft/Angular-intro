@@ -9,6 +9,7 @@ export class ProductComponent implements OnInit {
 
   constructor() { }
 
+  name="Laptop"
   ngOnInit(): void {
   }
 
